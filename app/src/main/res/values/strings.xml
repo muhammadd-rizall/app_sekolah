@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APP_Sekolah</string>
+    <string name="title_activity_detail_maps_sekolah">DetailMapsSekolahActivity</string>
+    <string name="title_activity_maps_wisata">MapsWisataActivity</string>
+</resources>
